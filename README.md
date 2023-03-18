@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **I have to enhance my knowledge towards the software testing**
 
-- 💬 Ask me about **Anything relating the software testing**
+- 💬 Ask me about **Anything related to the software testing**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akash-raut-a351b2267**
 
