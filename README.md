@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Raut</h1>
-<h3 align="center">A passionate software tester from India</h3>
+<h3 align="center">A passionate RPA developer from India</h3>
 
-- 🌱 I’m currently learning **software testing, Framework**
+- 🌱 I’m currently learning **Uipath, Automation anywhere, Blue prism**
 
-- 👯 I’m looking to collaborate on [TheTestingAcademy](https://courses.thetestingacademy.com/)
+- 🤝 I’m looking for help with **I have to enhance my knowledge towards the RPA Developer**
 
-- 🤝 I’m looking for help with **I have to enhance my knowledge towards the software testing**
-
-- 💬 Ask me about **Anything related to the software testing**
+- 💬 Ask me about **Anything related to the RPA Tools**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akash-raut-a351b2267**
 
