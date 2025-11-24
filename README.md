@@ -18,4 +18,25 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://[www.Blue prism.com](https://www.blueprism.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blueprism/Blueprism-original.svg" alt="blue prism" width="40" height="40"/> </a> <a href="https://[www.Automation Anywhere.com](https://www.automationanywhere.com/)/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Automation anywhere/Automation anywhere-origional.svg" alt="Automation Anywhere" width="40" height="40"/> </a> <a href="https://www.uipath.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Uipath/Uipath-original.svg" alt="uipath" width="40" height="40"/> </a> </p>
+<p align="left">
+
+  <!-- Blue Prism -->
+  <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blueprism/blueprism-original.svg" 
+         alt="Blue Prism" width="40" height="40"/>
+  </a>
+
+  <!-- Automation Anywhere -->
+  <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/automationanywhere/automationanywhere-original.svg" 
+         alt="Automation Anywhere" width="40" height="40"/>
+  </a>
+
+  <!-- UiPath -->
+  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" 
+         alt="UiPath" width="40" height="40"/>
+  </a>
+
+</p>
+
